@@ -5,10 +5,14 @@ function Footer() {
     <footer>
       <ul>
         <li>
-          <a href="https://github.com/kkarrwrites">GitHub</a>
+          <a href="https://github.com/kkarrwrites" target="_blank">
+            GitHub
+          </a>
         </li>
         <li>
-          <a href="#">LinkedIn</a>
+          <a href="#" target="_blank">
+            LinkedIn
+          </a>
         </li>
       </ul>
     </footer>
