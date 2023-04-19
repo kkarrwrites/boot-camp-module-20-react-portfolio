@@ -5,7 +5,11 @@ function Resume() {
     <section>
       <h2>Resume</h2>
       <p>
-        Download my <a href="#">resume</a>.
+        Download my{' '}
+        <a href="#" target="_blank">
+          resume
+        </a>
+        .
       </p>
       <h3>Skills</h3>
       <ul>
