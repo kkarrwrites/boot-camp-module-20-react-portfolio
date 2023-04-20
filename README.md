@@ -10,7 +10,7 @@ A frontend web developer portfolio web application built with React.js.
 
 ## Deployment
 
-[GitHub Pages]()
+[GitHub Pages](https://github.com/kkarrwrites/boot-camp-module-20-react-portfolio/actions)
 
 ## Technologies
 
