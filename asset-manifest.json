@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/boot-camp-module-20-react-portfolio/static/css/main.dc858b34.css",
-    "main.js": "/boot-camp-module-20-react-portfolio/static/js/main.ae2de10e.js",
+    "main.js": "/boot-camp-module-20-react-portfolio/static/js/main.6c52545f.js",
     "static/media/Avatar.jpg": "/boot-camp-module-20-react-portfolio/static/media/Avatar.fc8ecaddfc9e77358057.jpg",
     "static/media/Portfolio.jpg": "/boot-camp-module-20-react-portfolio/static/media/Portfolio.acac699fade6fac47390.jpg",
     "static/media/Deja_Brew.jpg": "/boot-camp-module-20-react-portfolio/static/media/Deja_Brew.364674e6fba62f8ce064.jpg",
@@ -12,10 +12,10 @@
     "static/media/Header.jpg": "/boot-camp-module-20-react-portfolio/static/media/Header.9f199ea001b6f778bc97.jpg",
     "index.html": "/boot-camp-module-20-react-portfolio/index.html",
     "main.dc858b34.css.map": "/boot-camp-module-20-react-portfolio/static/css/main.dc858b34.css.map",
-    "main.ae2de10e.js.map": "/boot-camp-module-20-react-portfolio/static/js/main.ae2de10e.js.map"
+    "main.6c52545f.js.map": "/boot-camp-module-20-react-portfolio/static/js/main.6c52545f.js.map"
   },
   "entrypoints": [
     "static/css/main.dc858b34.css",
-    "static/js/main.ae2de10e.js"
+    "static/js/main.6c52545f.js"
   ]
 }
