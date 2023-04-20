@@ -3,7 +3,7 @@ import React from 'react';
 function Header() {
   return (
     <header>
-      <img src="#" />
+      <img src={require('../assets/images/Header.jpg')} alt="" />
     </header>
   );
 }
