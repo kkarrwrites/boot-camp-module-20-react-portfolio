@@ -4,14 +4,14 @@ function Navigation({ currentPage, handlePageChange }) {
   return (
     <nav>
       <h1>
-        <a href="/" onClick={() => handlePageChange('About')}>
+        <a href="#about" onClick={() => handlePageChange('About')}>
           K. Karr
         </a>
       </h1>
       <ul>
         <li>
           <a
-            href="/"
+            href="#about"
             onClick={() => handlePageChange('About')}
             className={currentPage === 'About' ? 'active' : 'inactive'}
           >
