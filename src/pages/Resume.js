@@ -6,7 +6,11 @@ function Resume() {
       <h2>Resume</h2>
       <p>
         Download my{' '}
-        <a href="#" target="_blank">
+        <a
+          href="https://github.com/kkarrwrites"
+          target="_blank"
+          rel="noreferrer"
+        >
           resume
         </a>
         .
