@@ -153,6 +153,7 @@ input,
 textarea {
   margin: 5px 0 5px 0;
   padding: 5px;
+  width: 50%;
 }
 
 input:focus,
@@ -192,6 +193,13 @@ button:focus,
 #nav_login:hover,
 #nav_login:focus {
   background-color: #def1ff;
+}
+
+@media screen and (max-width: 62.5em /* 1000px */) {
+  input,
+  textarea {
+    width: 100%;
+  }
 }
 
 /* Footer */
