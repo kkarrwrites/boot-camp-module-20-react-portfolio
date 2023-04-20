@@ -6,12 +6,12 @@ function Contact() {
       <h2>Contact</h2>
       <form>
         <label htmlFor="name" required>
-          Name
+          Name (Required)
         </label>
         <br />
         <input id="name" type="text" />
         <br />
-        <label htmlFor="email">Email</label>
+        <label htmlFor="email">Email (Required)</label>
         <br />
         <input
           id="email"
@@ -21,7 +21,7 @@ function Contact() {
         />
         <br />
         <label htmlFor="message" required>
-          Message
+          Message (Required)
         </label>
         <br />
         <textarea id="message" type="text" />
