@@ -6,7 +6,7 @@ A frontend web developer portfolio web application built with React.js.
 
 ## Screenshot
 
-![README Screenshot](./public/screenshot.jpg)
+![README Screenshot](./src/assets/images/Screenshot.jpg)
 
 ## Deployment
 
